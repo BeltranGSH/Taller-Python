@@ -15,18 +15,17 @@ TallerPython/
 │   └── ejemplos_ciencia.py # Ejemplos aplicados a ciencia/ingeniería
 │
 ├── notebooks/             # Cuadernos Jupyter/Colab
-│   └── TallerPython_ApellidoNombre.ipynb
+│   └── TallerPython_BeltranJesus.ipynb
 │
 ├── data/                  # Archivos de datos (si aplica)
 │   └── ejemplo_datos.csv
 │
-├── docs/                  # Documentación adicional
-│   └── notas.md
+│   
 │
 ├── requirements.txt       # Dependencias del proyecto
 ├── README.md             # Este archivo
 ├── .gitignore            # Archivos a ignorar en git
-└── LICENSE               # Licencia MIT
+
 \`\`\`
 
 ## Requisitos e Instalación
