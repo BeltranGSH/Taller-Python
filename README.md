@@ -135,7 +135,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 - **Nombre:** Beltran Martinez Jesus Antonio
 - **Email:** jesus.abmartinez23@gmail.com
-- **GitHub:** BeltranGSH (https://github.com/tu-usuario)
+- **GitHub:** BeltranGSH (https://github.com/BeltranGSH)
 
 ---
 
