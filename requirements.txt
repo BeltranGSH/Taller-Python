@@ -1,0 +1,12 @@
+# Paquetes científicos fundamentales
+numpy>=1.24.0
+matplotlib>=3.7.0
+pandas>=2.0.0
+
+# Jupyter para notebooks (opcional, si trabajas local)
+jupyter>=1.0.0
+notebook>=6.5.0
+
+# Herramientas adicionales útiles
+scipy>=1.10.0
+seaborn>=0.12.0
